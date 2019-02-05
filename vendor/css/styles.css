@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "OpenSans-Light";
+  src: url("../fonts/OpenSans-Light.ttf");
+}
+body {
+  font-family: "OpenSans-Light", sans-serif;
+}
+.section-1 {
+  padding: 10px;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /*background: #1bbc9b;*/
+  background: #000000;
+}
+.navbar-light {
+  background: #FFFFFF !important;
+}
+
+.section-gray {
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.section-white {
+  background: #FFFFFF;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
