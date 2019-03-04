@@ -4,19 +4,18 @@
 }
 body {
   font-family: "OpenSans-Light", sans-serif;
+  background: #343a40;
 }
 .section-1 {
   padding: 10px;
   border-radius: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-  /*background: #1bbc9b;*/
   background: #000000;
 }
 .navbar-light {
   background: #FFFFFF !important;
 }
-
 .section-gray {
   border-radius: 0px;
   margin-top: 0px;
@@ -27,4 +26,26 @@ body {
   border-radius: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+.fa-lg-service {
+  font-size: 100px !important;
+}
+.section-dark {
+  background: #343a40;
+  border-radius: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #FFFFFF;
+}
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
 }
